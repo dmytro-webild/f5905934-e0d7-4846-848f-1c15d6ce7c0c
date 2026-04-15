@@ -71,7 +71,7 @@ export default function LandingPage() {
           href: "tel:+18005550199",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/person-uses-tablet-governmental-cyber-security-room-working-russian-flag_482257-90680.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/person-uses-tablet-governmental-cyber-security-room-working-russian-flag_482257-90680.jpg?_wi=1"
       imageAlt="digital bill comparison interface modern"
       mediaAnimation="slide-up"
       avatars={[
@@ -146,7 +146,7 @@ export default function LandingPage() {
           title: "Free Bill Analysis",
           author: "Step 1",
           description: "Send us your current monthly bills. We conduct a deep-dive analysis against all market rates.",
-          imageSrc: "http://img.b2bpic.net/free-photo/two-businesspersons_23-2147626401.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-businesspersons_23-2147626401.jpg?_wi=1",
           imageAlt: "hand holding smartphone reviewing documents",
         },
         {
@@ -154,7 +154,7 @@ export default function LandingPage() {
           title: "Expert Negotiation",
           author: "Step 2",
           description: "Our experts contact providers to negotiate the best possible rates, beating your existing offer.",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-browsing-documents-ring-binder_329181-10985.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-browsing-documents-ring-binder_329181-10985.jpg?_wi=1",
           imageAlt: "magnifying glass on utility bill",
         },
         {
@@ -162,7 +162,7 @@ export default function LandingPage() {
           title: "Service Implementation",
           author: "Step 3",
           description: "We ensure the transition is smooth with zero service gaps and no upfront costs to you.",
-          imageSrc: "http://img.b2bpic.net/free-photo/inclusive-workspace-atmosphere-office-job_23-2149571033.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/inclusive-workspace-atmosphere-office-job_23-2149571033.jpg?_wi=1",
           imageAlt: "diverse team collaborating professional",
         },
       ]}
@@ -184,7 +184,7 @@ export default function LandingPage() {
           quote: "They cut my internet bill by 40% and found me a better TV package. Best decision ever!",
           tag: "Savings",
           avatarSrc: "http://img.b2bpic.net/free-photo/front-view-smiley-woman-with-copy-space_23-2149636314.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/person-uses-tablet-governmental-cyber-security-room-working-russian-flag_482257-90680.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/person-uses-tablet-governmental-cyber-security-room-working-russian-flag_482257-90680.jpg?_wi=2",
           imageAlt: "friendly mature woman portrait",
         },
         {
@@ -195,7 +195,7 @@ export default function LandingPage() {
           quote: "Super simple process. No hard credit check, and I start saving immediately.",
           tag: "Convenience",
           avatarSrc: "http://img.b2bpic.net/free-photo/confident-handsome-man-stands-isolated-white-wall_141793-68183.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/two-businesspersons_23-2147626401.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/two-businesspersons_23-2147626401.jpg?_wi=2",
           imageAlt: "friendly mature woman portrait",
         },
         {
@@ -206,7 +206,7 @@ export default function LandingPage() {
           quote: "Very friendly service. They really beat my previous phone plan by a significant amount.",
           tag: "Excellent",
           avatarSrc: "http://img.b2bpic.net/free-photo/smiling-arab-man-pointing-with-hands-side-while-advertising-product-looking-camera-joyful-person-with-positive-facial-expression-showing-left-with-arms-portrait_482257-65221.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-browsing-documents-ring-binder_329181-10985.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-browsing-documents-ring-binder_329181-10985.jpg?_wi=2",
           imageAlt: "friendly mature woman portrait",
         },
         {
@@ -217,7 +217,7 @@ export default function LandingPage() {
           quote: "I didn't have time to call providers, they did it all for me. Saved my family hundreds annually.",
           tag: "Service",
           avatarSrc: "http://img.b2bpic.net/free-photo/teen-girl-with-short-hair-posing-couch-inside-charming-brunette-woman-pink-sunglasses-denim-beige-outfit-looking-into-camera-cafe_197531-29429.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/inclusive-workspace-atmosphere-office-job_23-2149571033.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/inclusive-workspace-atmosphere-office-job_23-2149571033.jpg?_wi=2",
           imageAlt: "friendly mature woman portrait",
         },
         {
